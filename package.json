@@ -1,0 +1,23 @@
+{
+  "name": "practice-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brotherson67/learning_TDD_OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brotherson67/learning_TDD_OOP/issues"
+  },
+  "homepage": "https://github.com/brotherson67/learning_TDD_OOP#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
